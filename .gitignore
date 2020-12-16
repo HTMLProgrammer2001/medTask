@@ -1,0 +1,9 @@
+.idea
+__pycache__
+build
+dist
+input
+in
+out
+outCenter
+outDev
